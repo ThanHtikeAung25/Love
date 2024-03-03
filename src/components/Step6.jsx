@@ -11,7 +11,7 @@ const Step6 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\love.gif" width="300px"/>
+            <img src="assets\media\gif\love.gif" width="300px"/>
             <Box mt={50}>
                 <Text fontSize='2xl'>မဆိုးပါနဲ့တော့ ချစ်ကလည်း နော်နော် 🥺</Text>
             </Box>

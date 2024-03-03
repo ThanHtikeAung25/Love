@@ -11,7 +11,7 @@ const Step4 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\github-sticker.gif" width="360" />
+            <img src="assets\media\gif\github-sticker.gif" width="360" />
             <Box mt={50}>
                 <Text fontSize='2xl'>စိတ်မဆိုးပါနဲ့တော့ ချစ်ကလည်း😭</Text>
             </Box>

@@ -12,13 +12,13 @@ const PlayAudio = () => {
                 <Box>
                     <Text>English version</Text>
                     <AudioPlayer
-                        src="src\media\mp3\always.mp3"
+                        src="assets\media\mp3\always.mp3"
                     />
                 </Box>
                 <Box>
                     <Text>Myanmar version</Text>
                     <AudioPlayer
-                        src="src\media\mp3\amyal_tan_pl_min_ver0.2.MP3"
+                        src="assets\media\mp3\amyal_tan_pl_min_ver0.2.MP3"
                     />
                 </Box>
             </Stack>
@@ -47,7 +47,7 @@ const Step3 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\peach-cat.gif" />
+            <img src="assets\media\gif\peach-cat.gif" />
             <Box mt={50}>
                 <Text fontSize='2xl'>အာ့ဆို သီချင်းဆိုပြမယ်</Text>
             </Box>

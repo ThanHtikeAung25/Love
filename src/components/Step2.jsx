@@ -11,7 +11,7 @@ const Step2 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\unhappy-crossed.gif" />
+            <img src="assets\media\gif\unhappy-crossed.gif" />
             <Box mt={50}>
                 <Text fontSize='2xl'>ဘာလို့အဲ့လောက်ဆိုးနေတာလဲ🥺</Text>
             </Box>

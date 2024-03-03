@@ -12,7 +12,7 @@ const Step5 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\ahaaaa-mad.gif" />
+            <img src="assets\media\gif\ahaaaa-mad.gif" />
             <Stack direction="row">
                 <Box mt={50}>
                     <Text fontSize='2xl'>အာ့ဆိုလည်း video လေးတော့ကြည့်🙄</Text>

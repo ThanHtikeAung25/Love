@@ -12,7 +12,7 @@ const Step7 = () => {
     }
     return (
         <>
-            <img src="src\media\gif\alone-lonely.gif" width="300px" />
+            <img src="assets\media\gif\alone-lonely.gif" width="300px" />
             <Box mt={50}>
                 <Text fontSize='2xl'>အာ့ဆိုချစ်တော့ဘူးလား</Text>
             </Box>

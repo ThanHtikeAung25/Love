@@ -5,11 +5,11 @@ import '@vidstack/react/player/styles/default/layouts/video.css';
 
 export function MyVideo() {
     return (
-        <MediaPlayer title="Love" src="src\media\video\lv_0_20240303142001.mp4">
+        <MediaPlayer title="Love" src="assets\media\video\lv_0_20240303142001.mp4">
             <MediaProvider>
                 <Poster className="vds-poster" src="src\media\icon\yaseen.png"/>
             </MediaProvider>
-            <DefaultVideoLayout thumbnails="src\media\icon\yaseen.png" icons={defaultLayoutIcons} />
+            <DefaultVideoLayout thumbnails="assets\media\icon\yaseen.png" icons={defaultLayoutIcons} />
         </MediaPlayer>
     );
 }
